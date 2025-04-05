@@ -76,6 +76,6 @@ Make sure to include the **Font Awesome CDN** in the `<head>` section of your HT
 ## 👤 Author
 
 **Bashir Hussain Ebrahimi**\
-📧 Email: [ebrahimibashirhussain@gmail.com](mailto:ebrahimibashirhussain@gmail.com)\
-🔗 LinkedIn: [linkedin.com/in/bashir-ebrahimi](https://www.linkedin.com/in/bashir-ebrahimi)
+📧 Email: bashr.ebahimi01@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/b-ebrahimi/
 
