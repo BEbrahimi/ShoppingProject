@@ -39,7 +39,7 @@ A professional-looking employee registration form designed for companies and ins
 | ---------------- | ------------- |
 |                  |               |
 
-> You can add your own screenshots in the `assets/` folder and link them here.
+> You can add your own screenshots in the `image/` folder and link them here.
 
 ---
 
@@ -57,7 +57,7 @@ A professional-looking employee registration form designed for companies and ins
 ### 🔧 Clone the Repository
 
 ```bash
-git clone https://github.com/bEbrahimiShoppingProject.git
+git clone https://github.com/bEbrahimi/ShoppingProject.git
 cd shop-and-employee-forms
 ```
 
